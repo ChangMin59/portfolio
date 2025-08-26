@@ -132,7 +132,7 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 ---
 
 ### 👉🏠 [WELHOME.pdf](./portfolio/welhome.pdf)  
-→ **LH 청약 추천·대출 QnA 챗봇 (Intent Router + RAG + Fine-tuning + LangGraph Agent)**  
+→ **LH 주택청약 추천·대출 QnA 챗봇 (Intent Router + RAG + Fine-tuning + LangGraph Agent)**  
 
 - **문제 정의**:  
   - 공고문 100건 이상, PDF 직접 열람 필요 → 조건 확인 비효율  
