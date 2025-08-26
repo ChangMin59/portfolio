@@ -82,7 +82,7 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 
 - **성과**:  
   - **탐지율 개선**: 데이터 증강 적용 후 인식률 향상  
-  - **추적 안정성 확보**: 증강 적용 후 인식률 향상, 추적 안정성 개선(예: ID 스위치 감소, 탐지율 +6.3%)**  
+  - **추적 안정성 확보**: 증강 적용 후 인식률 향상, 추적 안정성 개선(예: ID 스위치 감소, 탐지율 +6.3%)
 
 ## 🔗 데모 & 저장소
 - **Colab 데모**: [Open in Colab](https://colab.research.google.com/drive/1w_tqy06pbsKyC61KbOjjVGVDjizUolVz?usp=sharing)
