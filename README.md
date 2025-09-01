@@ -141,14 +141,14 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 
 - **기술 스택**:  
   - **데이터 수집**: 공공데이터포털 API(data.go.kr)
-  - **데이터 추출**: Upstage(PDF→HTML) 
+  - **데이터 추출**: Upstage(PDF→HTML)
   - **벡터 검색**: BGE-M3 + ChromaDB(공고별 chunk 저장/검색)
   - **질문 유형 분류**: Intent Router (주택 / 대출 라우팅)  
   - **주택·대출 챗봇 모델**: `exaone3.5:7.8b`  
   - **QnA 챗봇**: `naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B` (Fine-tuning)  
   - **데이터베이스**: SQLite (대출 / 주택 정보 저장)
-  - **프레임워크**: FastAPI, LangChain, LangGraph , Agent
-  - **공고문 원문 확인**: PyMuPDF (추천된 PDF 페이지 이미지 렌더링)  
+  - **프레임워크**: FastAPI, Uvicorn, LangChain, LangGraph , Agent
+  - **공고문 원문 확인**: PyMuPDF/pdf2image (추천된 PDF 페이지 이미지 렌더링)  
 
 - **주요 기능**:  
   - 사용자 조건 기반 맞춤형 **LH 청약 공고 추천**  
