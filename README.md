@@ -1,7 +1,7 @@
-# AI Developer Portfolio
+# Developer Portfolio
 
 안녕하세요 👋
-AI 서비스 개발자 **이창민(ChangMin59)** 입니다.
+개발자 **이창민(ChangMin59)** 입니다.
 
 저는 **데이터 전처리 → AI 모델링 → 서비스 배포** 전 과정을 직접 수행하며,
 아이디어를 실제 사용자 가치로 전환하는 데 강점을 가진 개발자입니다.
@@ -22,7 +22,7 @@ AI 서비스 개발자 **이창민(ChangMin59)** 입니다.
 ---
 
 ## 📂 Portfolio Files & Projects
-### 👉📘 [AI Developer Web Page.pdf](./portfolio/AI_Developer_Portfolio.pdf)  
+### 👉📘 [Developer Web Page.pdf](./portfolio/AI_Developer_Portfolio.pdf)  
 Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/JavaScript 기반의 **프론트엔드 UI 구현**을 결합해
 풀스택 웹 애플리케이션을 직접 구축한 프로젝트입니다.
 
