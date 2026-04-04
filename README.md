@@ -23,7 +23,7 @@
 
 ## 📂 Portfolio Files & Projects
 ### 👉📘 [Developer Web Page.pdf](./portfolio/AI_Developer_Portfolio.pdf)  
-Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/JavaScript 기반의 **프론트엔드 UI 구현**을 결합해
+Spring Boot + JWT + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/JavaScript 기반의 **프론트엔드 UI 구현**을 결합해
 풀스택 웹 애플리케이션을 직접 구축한 프로젝트입니다.
 
 단순한 학습용 예제를 넘어서, **회원가입 → 로그인 인증 → 대시보드 렌더링**까지
