@@ -40,15 +40,23 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **로그아웃**: 인증 상태 해제 후 로그인 페이지로 리다이렉트  
   - **UX 인터랙션**: GSAP ScrollTrigger + Canvas 기반 애니메이션  
 
-**기술 스택**
-  - **Frontend**  
-    - HTML, CSS, Sass(SCSS), JavaScript, GSAP(ScrollTrigger), Canvas
-    - GitHub Pages 배포  
+**개발언어**
+  - Java, JavaScript
 
-- **Backend**  
-  - Spring Boot + JPA + MySQL 기반 RESTful 구조 설계  
-  - Render 서버를 통한 백엔드 분리 배포  
-  - Railway 기반 클라우드 MySQL 연동 
+**프론트엔드**
+- HTML, CSS, Sass(SCSS)
+- JavaScript
+- GSAP(ScrollTrigger), Canvas
+
+**백엔드**
+- Java, Spring Boot, JPA
+- MySQL
+    
+**개발환경 / 인프라**
+- Render (백엔드 배포)
+- Railway (MySQL 클라우드)
+- GitHub Pages (프론트 배포)
+- Linux(Ubuntu), SSH 원격 서버 개발 환경
 
 **배포 링크 & 저장소**
 - **포트폴리오 웹**: [GitHub Pages (실제 서비스)](https://changmin59.github.io/portfolio_client/)  
