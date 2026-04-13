@@ -40,19 +40,19 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **로그아웃**: 인증 상태 해제 후 로그인 페이지로 리다이렉트  
   - **UX 인터랙션**: GSAP ScrollTrigger + Canvas 기반 애니메이션  
 
-- **개발언어**
+**개발언어**
   - Java, JavaScript
 
-- **프론트엔드**
+**프론트엔드**
   - HTML, CSS, Sass(SCSS)
   - JavaScript
   - GSAP(ScrollTrigger), Canvas
 
-- **백엔드**
+**백엔드**
   - Java, Spring Boot, JPA
   - MySQL
  
-- **개발환경 / 인프라**
+**개발환경 / 인프라**
   - Render (백엔드 배포)
   - Railway (MySQL 클라우드)
   - GitHub Pages (프론트 배포)
@@ -90,10 +90,10 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **탐지율 개선**: 데이터 증강 적용 후 인식률 향상  
   - **추적 안정성 확보**: 증강 적용 후 인식률 향상, 추적 안정성 개선(예: ID 스위치 감소, 탐지율 +6.3%)
  
-- **개발언어**
+**개발언어**
   - python
 
-- **개발환경 / 인프라**
+**개발환경 / 인프라**
   - Linux(Ubuntu), SSH 원격 서버 개발 환경
 
 ## 🔗 데모 & 저장소
@@ -138,10 +138,10 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **응답 효율성 강화** → 불필요한 카드사 검색 최소화, 외부 검색은 필요한 경우에만 호출  
   - **사용자 경험 개선** → 반복 질문에도 맥락 유지(ConversationBufferMemory 적용)
  
-- **개발언어**
+**개발언어**
   - python
 
-- **개발환경 / 인프라**
+**개발환경 / 인프라**
   - Linux(Ubuntu), SSH 원격 서버 개발 환경
 
   ## 🔗 저장소
@@ -187,10 +187,10 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - Fine-tuning 적용 QnA 챗봇 → **정책 용어 이해도 개선**  
   - PyMuPDF 연동 → **추천 공고문 PDF 원문·페이지 직접 제시** (신뢰성 확보)
  
-- **개발언어**
+**개발언어**
   - python
 
-- **개발환경 / 인프라**
+**개발환경 / 인프라**
   - Linux(Ubuntu), SSH 원격 서버 개발 환경
     
  ## 🔗 저장소
