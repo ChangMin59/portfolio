@@ -40,23 +40,23 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **로그아웃**: 인증 상태 해제 후 로그인 페이지로 리다이렉트  
   - **UX 인터랙션**: GSAP ScrollTrigger + Canvas 기반 애니메이션  
 
-**개발언어**
+- **개발언어**
   - Java, JavaScript
 
-**프론트엔드**
-- HTML, CSS, Sass(SCSS)
-- JavaScript
-- GSAP(ScrollTrigger), Canvas
+- **프론트엔드**
+  - HTML, CSS, Sass(SCSS)
+  - JavaScript
+  - GSAP(ScrollTrigger), Canvas
 
-**백엔드**
-- Java, Spring Boot, JPA
-- MySQL
-    
-**개발환경 / 인프라**
-- Render (백엔드 배포)
-- Railway (MySQL 클라우드)
-- GitHub Pages (프론트 배포)
-- Linux(Ubuntu), SSH 원격 서버 개발 환경
+- **백엔드**
+  - Java, Spring Boot, JPA
+  - MySQL
+ 
+- **개발환경 / 인프라**
+  - Render (백엔드 배포)
+  - Railway (MySQL 클라우드)
+  - GitHub Pages (프론트 배포)
+  - Linux(Ubuntu), SSH 원격 서버 개발 환경
 
 **배포 링크 & 저장소**
 - **포트폴리오 웹**: [GitHub Pages (실제 서비스)](https://changmin59.github.io/portfolio_client/)  
@@ -89,6 +89,12 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 - **성과**:  
   - **탐지율 개선**: 데이터 증강 적용 후 인식률 향상  
   - **추적 안정성 확보**: 증강 적용 후 인식률 향상, 추적 안정성 개선(예: ID 스위치 감소, 탐지율 +6.3%)
+ 
+- **개발언어**
+  - python
+
+- **개발환경 / 인프라**
+  - Linux(Ubuntu), SSH 원격 서버 개발 환경
 
 ## 🔗 데모 & 저장소
 - **Colab 데모**: [Open in Colab](https://colab.research.google.com/drive/1w_tqy06pbsKyC61KbOjjVGVDjizUolVz?usp=sharing)
@@ -131,6 +137,12 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **검색 정확도 향상** → Retriever + ReRanker로 카드 정보 탐색 신뢰도 개선  
   - **응답 효율성 강화** → 불필요한 카드사 검색 최소화, 외부 검색은 필요한 경우에만 호출  
   - **사용자 경험 개선** → 반복 질문에도 맥락 유지(ConversationBufferMemory 적용)
+ 
+- **개발언어**
+  - python
+
+- **개발환경 / 인프라**
+  - Linux(Ubuntu), SSH 원격 서버 개발 환경
 
   ## 🔗 저장소
 - **Card Chatbot 코드**: [Card Chatbot](https://github.com/ChangMin59/Card_Chatbot)
@@ -174,6 +186,12 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - Intent Router 기반 질문 분기 → **주택/대출 상담 정확도 향상**  
   - Fine-tuning 적용 QnA 챗봇 → **정책 용어 이해도 개선**  
   - PyMuPDF 연동 → **추천 공고문 PDF 원문·페이지 직접 제시** (신뢰성 확보)
+ 
+- **개발언어**
+  - python
+
+- **개발환경 / 인프라**
+  - Linux(Ubuntu), SSH 원격 서버 개발 환경
     
  ## 🔗 저장소
 - **welhome 결과**: [Welhome 결과 영상](./portfolio/welhome_결과영상.mp4)
