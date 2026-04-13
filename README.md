@@ -104,7 +104,10 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **추적 안정성 확보**: 증강 적용 후 인식률 향상, 추적 안정성 개선(예: ID 스위치 감소, 탐지율 +6.3%)
  
 **개발언어**
-  - python
+<p>
+  <!-- Language -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 **개발환경 / 인프라**
   - Linux(Ubuntu), SSH 원격 서버 개발 환경
@@ -152,7 +155,10 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **사용자 경험 개선** → 반복 질문에도 맥락 유지(ConversationBufferMemory 적용)
  
 **개발언어**
-  - python
+<p>
+  <!-- Language -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 **개발환경 / 인프라**
   - Linux(Ubuntu), SSH 원격 서버 개발 환경
@@ -201,7 +207,10 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - PyMuPDF 연동 → **추천 공고문 PDF 원문·페이지 직접 제시** (신뢰성 확보)
  
 **개발언어**
-  - python
+<p>
+  <!-- Language -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 **개발환경 / 인프라**
   - Linux(Ubuntu), SSH 원격 서버 개발 환경
