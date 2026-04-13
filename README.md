@@ -48,19 +48,32 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 </p>
 
 **프론트엔드**
-  - HTML, CSS, Sass(SCSS)
-  - JavaScript
-  - GSAP(ScrollTrigger), Canvas
+<p>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canvas-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
 **백엔드**
-  - Java, Spring Boot, JPA
-  - MySQL
+<p>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
  
 **개발환경 / 인프라**
-  - Render (백엔드 배포)
-  - Railway (MySQL 클라우드)
-  - GitHub Pages (프론트 배포)
-  - Linux(Ubuntu), SSH 원격 서버 개발 환경
+<p>
+  <!-- Infra -->
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
 **배포 링크 & 저장소**
 - **포트폴리오 웹**: [GitHub Pages (실제 서비스)](https://changmin59.github.io/portfolio_client/)  
