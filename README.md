@@ -66,14 +66,7 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
 </p>
  
 **개발환경 / 인프라**
-<p>
-  <!-- Infra -->
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
+  - Render (백엔드 배포) - Railway (MySQL 클라우드) - GitHub Pages (프론트 배포) - Linux(Ubuntu), SSH 원격 서버 개발 환경
 
 **배포 링크 & 저장소**
 - **포트폴리오 웹**: [GitHub Pages (실제 서비스)](https://changmin59.github.io/portfolio_client/)  
