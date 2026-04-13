@@ -41,7 +41,11 @@ Spring Boot + JPA + MySQL 기반의 **백엔드 로직 설계**와 HTML/CSS/Java
   - **UX 인터랙션**: GSAP ScrollTrigger + Canvas 기반 애니메이션  
 
 **개발언어**
-  - Java, JavaScript
+<p>
+  <!-- Language -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 **프론트엔드**
   - HTML, CSS, Sass(SCSS)
